@@ -1,0 +1,13 @@
+# MacOS system files
+.DS_Store
+Thumbs.db
+
+# IDE - VS Code
+.vscode/
+
+# Environment variables (Direnv)
+.envrc
+
+# Temporary files
+*.tmp
+*.log
